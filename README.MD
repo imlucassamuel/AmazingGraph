@@ -14,5 +14,5 @@ Esse projeto foi desenvolvido com as seguintes linguagens:
 
 ## 🖥️ Projeto
 
-Página sobre um site de criação de gráficos, projetada a partir do desafio do site [DevChallenge](https://www.devchallenge.com.br/).
+Página sobre um site de criação de gráficos, projetada a partir do desafio do sites [DevChallenge](https://www.devchallenge.com.br/).
 
